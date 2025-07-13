@@ -57,9 +57,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShallenCrissle&color=blue)
-
-
 ## 📈 GitHub Stats
 
 ![Shallen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShallenCrissle&show_icons=true&theme=radical)
