@@ -48,7 +48,7 @@
 
 ## 📜 Certifications
 
-- 🏅 Oracle Cloud Infrastructure 2025 Certified – *AI Foundations Associate*  
+- 🏅 [Oracle Cloud Infrastructure 2025 Certified – *AI Foundations Associate* ] (https://catalog-education.oracle.com/ords/certview/sharebadge?id=BCF4E59CFA5D2AF40F676E49CEDC710323B1550EC28BD0442126FB5044EB1049)
 - ☁️ Preparing for Your Associate Cloud Engineer Journey – *Google Cloud Skills Boost*
 
 ---
