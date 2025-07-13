@@ -19,7 +19,7 @@
 
 ## 🚀 Projects
 
-| Project Name | Description | App Link | GitHub Link |
+| Project Name | Description | Deployed Link | Repository |
 |--------------|-------------|----------|-------------|
 | **PDF Question-Answering App** | A lightweight and powerful PDF QA app built with Streamlit, LangChain, FAISS, and Groq's LLaMA 3. Upload any PDF and ask natural language questions — get accurate answers instantly. | [View](https://rag-doc-chatbot.streamlit.app/) | [GitHub](https://github.com/ShallenCrissle/rag_document_chatbot) |
 | **Nurse Allotment App** | Real-time nurse-patient matching system built with Node.js, Express.js, and MongoDB. | — | [GitHub](https://github.com/ShallenCrissle/nursealottment) |
@@ -57,6 +57,7 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=ShallenCrissle&color=blue)
 
 
 ## 📈 GitHub Stats
