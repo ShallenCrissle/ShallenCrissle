@@ -7,15 +7,7 @@
 
 ---
 
-## 💼 Current Internships
 
-- **🔹 Sasken Technologies** – *Gen AI Intern* (Jun 2025 – Present)  
-  Building a Retrieval-Augmented Generation (RAG) based assistant for querying C/C++ codebases using LLMs with LangChain and Streamlit.
-
-- **🔹 Sabudh Foundation** – *Data Science Intern* (Jul 2025 – Present)  
-  Working with Python, SQL, and Dataiku on machine learning, recommender systems, and NLP projects.
-
----
 
 ## 🚀 Projects
 
@@ -48,22 +40,7 @@
 
 ---
 
-## 📜 Certifications
 
-- 🏅 Oracle Cloud Infrastructure 2025 Certified – *AI Foundations Associate*  [ View](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BCF4E59CFA5D2AF40F676E49CEDC710323B1550EC28BD0442126FB5044EB1049)
-- 🏅 Preparing for Your Associate Cloud Engineer Journey – *Google Cloud Skills Boost* [ View](https://www.cloudskillsboost.google/public_profiles/b3165544-dcd4-42f2-a41f-0623614babdb/badges/11863556?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
-- 🏅Goldman Sachs - Software Engineering Job Simulation [ View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/NPdeQ43o8P9HJmJzg_MBA4MnZTNFEoJZGnk_o9EYtWwzoZCgrfDtK_1738939474436_completion_certificate.pdf)
-- 🏅Introduction to Deep Learning (Infosys SpringBoard)
-
----
-
-## 📈 GitHub Stats
-
-![Shallen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShallenCrissle&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShallenCrissle&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShallenCrissle&theme=radical)
-
----
 
 ## 🤝 Let's Connect
 
