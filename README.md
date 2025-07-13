@@ -19,12 +19,13 @@
 
 ## 🚀 Projects
 
-| Project Name | Description | App Links | GitHub Links |
-|--------------|-------------|------------|-------|
-| **PDF Question-Answering aps** | A lightweight and powerful PDF Question-Answering app built with Streamlit, LangChain, and Groq's ultra-fast LLMs. Upload any PDF, and ask natural language questions — the app uses semantic search (FAISS) and a Groq-hosted LLM ( LLaMA 3 ) to retrieve accurate answers instantly. |[View] (rag-doc-chatbot.streamlit.app/) | [GitHub]([https://github.com/ShallenCrissle](https://github.com/ShallenCrissle/rag_document_chatbot)) |
-| **Nurse Allotment App** | Real-time nurse-patient matching system. | Node.js, Express.js, MongoDB | [GitHub](https://github.com/ShallenCrissle) |
-| **GenzPass** | Secure password strength estimator with bcrypt hashing & REST APIs. | JavaScript, Express, REST |[View] (genzpass.onrender.com)| [GitHub](https://github.com/ShallenCrissle/GenzPass) |
-|**MarketPredictionValue**|A Streamlit web app that predicts the market value of English Premier League players based on features like age, position, FPL stats, popularity, and club status. Powered by machine learning (Gradient Boosting Regressor) and trained on real 2017 player data.|[View] (marketpredictorplayer.streamlit.app/)|[GitHub] (https://github.com/ShallenCrissle/MarketPredictorPlayer)
+| Project Name | Description | App Link | GitHub Link |
+|--------------|-------------|----------|-------------|
+| **PDF Question-Answering App** | A lightweight and powerful PDF QA app built with Streamlit, LangChain, FAISS, and Groq's LLaMA 3. Upload any PDF and ask natural language questions — get accurate answers instantly. | [View](https://rag-doc-chatbot.streamlit.app/) | [GitHub](https://github.com/ShallenCrissle/rag_document_chatbot) |
+| **Nurse Allotment App** | Real-time nurse-patient matching system built with Node.js, Express.js, and MongoDB. | — | [GitHub](https://github.com/ShallenCrissle/NurseAllotmentApp) |
+| **GenzPass** | Secure password strength estimator with bcrypt hashing & REST API built using JavaScript and Express. | [View](https://genzpass.onrender.com) | [GitHub](https://github.com/ShallenCrissle/GenzPass) |
+| **Market Prediction Value** | Streamlit web app predicting EPL player market value based on age, stats, club, and popularity using ML (Gradient Boosting Regressor). | [View](https://marketpredictorplayer.streamlit.app/) | [GitHub](https://github.com/ShallenCrissle/MarketPredictorPlayer) |
+
 
 ---
 
