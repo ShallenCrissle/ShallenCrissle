@@ -50,7 +50,7 @@
 
 ## 📜 Certifications
 
-- 🏅 [Oracle Cloud Infrastructure 2025 Certified – *AI Foundations Associate* ] [Oracle AI Foundations – View](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BCF4E59CFA5D2AF40F676E49CEDC710323B1550EC28BD0442126FB5044EB1049) (https://catalog-education.oracle.com/ords/certview/sharebadge?id=BCF4E59CFA5D2AF40F676E49CEDC710323B1550EC28BD0442126FB5044EB1049)
+- 🏅 Oracle Cloud Infrastructure 2025 Certified – *AI Foundations Associate*  [ View](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BCF4E59CFA5D2AF40F676E49CEDC710323B1550EC28BD0442126FB5044EB1049)
 - ☁️ Preparing for Your Associate Cloud Engineer Journey – *Google Cloud Skills Boost*
 
 ---
@@ -67,7 +67,7 @@
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shallen-crissle-sequeira)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shallen-crissle-sequeira-83a499325/)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shallensequeira1204@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShallenCrissle)
 
