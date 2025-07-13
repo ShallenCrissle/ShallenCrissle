@@ -19,11 +19,12 @@
 
 ## 🚀 Projects
 
-| Project Name | Description | Tech Stack | Links |
+| Project Name | Description | App Links | GitHub Links |
 |--------------|-------------|------------|-------|
-| **EndoInsights** | CNN + ViT model for ultrasound-based endometriosis detection, optimized using Bayesian techniques. | Python, PyTorch, OpenCV, ViT | [GitHub](https://github.com/ShallenCrissle) |
+| **PDF Question-Answering aps** | A lightweight and powerful PDF Question-Answering app built with Streamlit, LangChain, and Groq's ultra-fast LLMs. Upload any PDF, and ask natural language questions — the app uses semantic search (FAISS) and a Groq-hosted LLM ( LLaMA 3 ) to retrieve accurate answers instantly. |[View] (rag-doc-chatbot.streamlit.app/) | [GitHub]([https://github.com/ShallenCrissle](https://github.com/ShallenCrissle/rag_document_chatbot)) |
 | **Nurse Allotment App** | Real-time nurse-patient matching system. | Node.js, Express.js, MongoDB | [GitHub](https://github.com/ShallenCrissle) |
-| **GenzPass** | Secure password strength estimator with bcrypt hashing & REST APIs. | JavaScript, Express, REST | [GitHub](https://github.com/ShallenCrissle/GenzPass) |
+| **GenzPass** | Secure password strength estimator with bcrypt hashing & REST APIs. | JavaScript, Express, REST |[View] (genzpass.onrender.com)| [GitHub](https://github.com/ShallenCrissle/GenzPass) |
+|**MarketPredictionValue**|A Streamlit web app that predicts the market value of English Premier League players based on features like age, position, FPL stats, popularity, and club status. Powered by machine learning (Gradient Boosting Regressor) and trained on real 2017 player data.|[View] (marketpredictorplayer.streamlit.app/)|[GitHub] (https://github.com/ShallenCrissle/MarketPredictorPlayer)
 
 ---
 
