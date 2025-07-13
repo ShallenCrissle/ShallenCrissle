@@ -51,7 +51,9 @@
 ## 📜 Certifications
 
 - 🏅 Oracle Cloud Infrastructure 2025 Certified – *AI Foundations Associate*  [ View](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BCF4E59CFA5D2AF40F676E49CEDC710323B1550EC28BD0442126FB5044EB1049)
-- ☁️ Preparing for Your Associate Cloud Engineer Journey – *Google Cloud Skills Boost*
+- ☁️ Preparing for Your Associate Cloud Engineer Journey – *Google Cloud Skills Boost* [ View](https://www.cloudskillsboost.google/public_profiles/b3165544-dcd4-42f2-a41f-0623614babdb/badges/11863556?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
+- Goldman Sachs - Software Engineering Job Simulation [ View](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/NPdeQ43o8P9HJmJzg_MBA4MnZTNFEoJZGnk_o9EYtWwzoZCgrfDtK_1738939474436_completion_certificate.pdf)
+- Introduction to Deep Learning (Infosys SpringBoard)
 
 ---
 
