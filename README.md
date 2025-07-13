@@ -50,27 +50,12 @@
 
 ## 📜 Certifications
 
-- 🏅 [Oracle Cloud Infrastructure 2025 Certified – *AI Foundations Associate* ] (https://catalog-education.oracle.com/ords/certview/sharebadge?id=BCF4E59CFA5D2AF40F676E49CEDC710323B1550EC28BD0442126FB5044EB1049)
+- 🏅 [Oracle Cloud Infrastructure 2025 Certified – *AI Foundations Associate* ] [Oracle AI Foundations – View](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BCF4E59CFA5D2AF40F676E49CEDC710323B1550EC28BD0442126FB5044EB1049) (https://catalog-education.oracle.com/ords/certview/sharebadge?id=BCF4E59CFA5D2AF40F676E49CEDC710323B1550EC28BD0442126FB5044EB1049)
 - ☁️ Preparing for Your Associate Cloud Engineer Journey – *Google Cloud Skills Boost*
 
 ---
 
-## 🌐 Languages Known
 
-- English – Full Professional  
-- Kannada – Native/Bilingual  
-- Konkani – Native  
-- Hindi – Professional Working  
-
----
-
-## 🗣️ Interests & Volunteering
-
-- 🎤 Anchoring & Public Speaking  
-- ✍️ Technical Writing  
-- 💻 Goldman Sachs Forage Virtual Internship – Built *GenzPass* and drafted a security policy memo
-
----
 
 ## 📈 GitHub Stats
 
