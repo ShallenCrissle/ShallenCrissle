@@ -45,6 +45,7 @@
 
 ![Shallen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShallenCrissle&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShallenCrissle&layout=compact&theme=radical)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShallenCrissle&theme=radical)
 
 ## 🤝 Let's Connect
