@@ -17,7 +17,7 @@
 | **Nurse Allotment App** | Real-time nurse-patient matching system built with Node.js, Express.js, and MongoDB. | — | [View](https://github.com/ShallenCrissle/nursealottment) |
 | **GenzPass** | Secure password strength estimator with bcrypt hashing & REST API built using JavaScript and Express. | [View](https://genzpass.onrender.com) | [View](https://github.com/ShallenCrissle/GenzPass) |
 | **Market Prediction Value** | Streamlit web app predicting EPL player market value based on age, stats, club, and popularity using ML (Gradient Boosting Regressor). | [View](https://marketpredictorplayer.streamlit.app/) | [View](https://github.com/ShallenCrissle/MarketPredictorPlayer) |
-
+| **EndoInsights:Machine Learning powered insights for better Endometriosis Care**|EndoInsights leverages deep learning for the improved ultrasound-based diagnosis of Endometriosis.|-|[View] (https://github.com/ShallenCrissle/EndoInsights) |
 
 ---
 
