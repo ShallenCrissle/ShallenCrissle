@@ -13,11 +13,13 @@
 
 | Project Name | Description | Deployed Link | Repository |
 |--------------|-------------|----------|-------------|
-| **PDF Question-Answering App** | A lightweight and powerful PDF QA app built with Streamlit, LangChain, FAISS, and Groq's LLaMA 3. Upload any PDF and ask natural language questions — get accurate answers instantly. | [View](https://rag-doc-chatbot.streamlit.app/) | [View](https://github.com/ShallenCrissle/rag_document_chatbot) |
-| **Nurse Allotment App** | Real-time nurse-patient matching system built with Node.js, Express.js, and MongoDB. | — | [View](https://github.com/ShallenCrissle/nursealottment) |
-| **GenzPass** | Secure password strength estimator with bcrypt hashing & REST API built using JavaScript and Express. | [View](https://genzpass.onrender.com) | [View](https://github.com/ShallenCrissle/GenzPass) |
-| **Market Prediction Value** | Streamlit web app predicting EPL player market value based on age, stats, club, and popularity using ML (Gradient Boosting Regressor). | [View](https://marketpredictorplayer.streamlit.app/) | [View](https://github.com/ShallenCrissle/MarketPredictorPlayer) |
 | **EndoInsights:Machine Learning powered insights for better Endometriosis Care**|EndoInsights leverages deep learning for the improved ultrasound-based diagnosis of Endometriosis.| — | [View](https://github.com/ShallenCrissle/EndoInsights) |
+| **PDF Question-Answering App** | A lightweight and powerful PDF QA app built with Streamlit, LangChain, FAISS, and Groq's LLaMA 3. Upload any PDF and ask natural language questions — get accurate answers instantly. | [View](https://rag-doc-chatbot.streamlit.app/) | [View](https://github.com/ShallenCrissle/rag_document_chatbot) |
+| **GenzPass** | Secure password strength estimator with bcrypt hashing & REST API built using JavaScript and Express. | [View](https://genzpass.onrender.com) | [View](https://github.com/ShallenCrissle/GenzPass) |
+| **Nurse Allotment App** | Real-time nurse-patient matching system built with Node.js, Express.js, and MongoDB. | — | [View](https://github.com/ShallenCrissle/nursealottment) |
+
+| **Market Prediction Value** | Streamlit web app predicting EPL player market value based on age, stats, club, and popularity using ML (Gradient Boosting Regressor). | [View](https://marketpredictorplayer.streamlit.app/) | [View](https://github.com/ShallenCrissle/MarketPredictorPlayer) |
+
 
 ---
 
