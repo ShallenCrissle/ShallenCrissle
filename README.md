@@ -13,7 +13,7 @@
 
 | Project Name | Description | Deployed Link | Repository |
 |--------------|-------------|----------|-------------|
-| **EndoInsights:Machine Learning powered insights for better Endometriosis Care**|EndoInsights leverages deep learning for the improved ultrasound-based diagnosis of Endometriosis.| — | [View](https://github.com/ShallenCrissle/EndoInsights) |
+| **EndoInsights: Machine Learning powered insights for better Endometriosis Care**|EndoInsights leverages deep learning for the improved ultrasound-based diagnosis of Endometriosis.| — | [View](https://github.com/ShallenCrissle/EndoInsights) |
 | **RAG Chat with C/C++ Code**|A powerful Retrieval-Augmented Generation (RAG) assistant designed to answer natural language questions about large C/C++ codebases. It combines CodeBERT-based embeddings, ChromaDB vector storage, and LLMs to deliver accurate and contextual responses — all wrapped in a friendly Streamlit UI.| — | [View](https://github.com/ShallenCrissle/RagChatwithCorCpp-Code) |
 | **PDF Question-Answering App** | A lightweight and powerful PDF QA app built with Streamlit, LangChain, FAISS, and Groq's LLaMA 3. Upload any PDF and ask natural language questions — get accurate answers instantly. | [View](https://rag-doc-chatbot.streamlit.app/) | [View](https://github.com/ShallenCrissle/rag_document_chatbot) |
 | **GenzPass** | Secure password strength estimator with bcrypt hashing & REST API built using JavaScript and Express. | [View](https://genzpass.onrender.com) | [View](https://github.com/ShallenCrissle/GenzPass) |
